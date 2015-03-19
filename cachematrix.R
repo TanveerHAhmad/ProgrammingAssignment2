@@ -1,4 +1,4 @@
-## cachematrix.R - R Programming Assignment 2 - Week 3 
+## cachematrix.R - R Programming Assignment 2 - week  3
 ## Programming Assignment 2 is to write a pair of functions that cache the inverse
 ## of a matrix.
 ## The following functions:
