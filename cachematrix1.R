@@ -1,4 +1,5 @@
 # R Programming Assignment 2 - Week 3 - makecache_cachesolve_matrix.R
+# Assignment: Caching the Inverse of a Matrix
 # Matrix inversion is usually a costly computation and there may be some benefit
 # to caching the inverse of a matrix rather than compute it repeatedly. The
 # following two functions are used to cache the inverse of a matrix.
